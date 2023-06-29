@@ -1,4 +1,4 @@
-I'm Maksym Belikov, a mobile game developer specializing in Java and Kotlin. My passion lies in developing captivating games for mobile platforms. With a deep understanding of Java and Kotlin, I craft immersive experiences through unique gameplay mechanics and visually stunning graphics.
+I'm a mobile game developer specializing in Java and Kotlin. My passion lies in developing captivating games for mobile platforms. With a deep understanding of Java and Kotlin, I craft immersive experiences through unique gameplay mechanics and visually stunning graphics.
 
 Collaboration is vital to my work. I thrive in teams alongside talented artists, sound designers, and fellow programmers to bring our shared vision to life. Together, we create games that resonate with players, leaving them with enjoyable and memorable experiences.
 
